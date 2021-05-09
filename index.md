@@ -1,4 +1,4 @@
-## 미래로! 세계로! 전통의 명문 동대부고
+# 미래로! 세계로! 전통의 명문 동대부고!
 
 
 ![부고-전경](https://user-images.githubusercontent.com/81335498/117571769-e124b280-b10a-11eb-82eb-057a0ceaff6e.jpg)
